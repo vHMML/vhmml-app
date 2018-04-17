@@ -1,0 +1,7 @@
+#Ignore these files
+.DS_Store
+target/
+*.properties
+.classpath
+.project
+.settings/
